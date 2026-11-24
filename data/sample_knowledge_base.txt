@@ -1,0 +1,50 @@
+================================================================================
+Aura Wellness & Resilience Handbook v2.4
+Document Code: AURA-WELL-2026-V2.4
+Effective Date: January 1, 2026
+Classification: Corporate Internal & Employee Reference
+================================================================================
+
+1. Purpose and Philosophy
+The Aura Wellness Program is designed to provide holistic, empathetic, and evidence-informed mental health, resilience, and workplace well-being support to all team members and their families. This document serves as a reference guide for emotional grounding, stress reduction, preventive wellness stipends, and crisis response escalation.
+
+2. Acute Stress Relief & Grounding Techniques
+
+2.1 The 5-4-3-2-1 Sensory Grounding Method
+The 5-4-3-2-1 technique is a sensory awareness exercise designed to quickly ease high anxiety, panic surges, and sensory overload:
+- 5: Look for five things you can see around you (a desk plant, a picture frame, a water bottle, light through a window, a pen).
+- 4: Notice four things you can physically feel (the texture of your clothing, the firm ground beneath your feet, your fingers on the keyboard, cool air on your skin).
+- 3: Listen for three distinct sounds (the hum of the air conditioner, distant birds or traffic, your own breath).
+- 2: Identify two things you can smell (coffee, essential oils, fresh air, paper).
+- 1: Focus on one thing you can taste (a sip of fresh water, mint, or the lingering taste of a warm tea).
+
+2.2 Box Breathing (Square Breathing)
+Box breathing is used by elite performers and first responders to regulate the autonomic nervous system during acute pressure:
+- Step 1 (Inhale): Inhale slowly through your nose for a count of 4.
+- Step 2 (Hold): Hold your breath gently for a count of 4.
+- Step 3 (Exhale): Release the breath smoothly through your mouth for a count of 4.
+- Step 4 (Pause): Rest with empty lungs for a count of 4.
+- Repetition: Repeat this cycle 4 to 6 times until heart rate and breathing stabilize.
+
+3. Reflective Journaling & Decompression Prompts
+Daily expressive writing reduces rumination and enhances emotional processing:
+- End-of-Day Transition: "What is one challenge I navigated today, and what strength did I draw upon?"
+- Cognitive Defusion: "What is a recurring worry on my mind, and what is one small, controllable action I can take right now?"
+- Gratitude Check: "Identify three simple interactions or moments that brought ease or comfort today."
+
+4. Wellness Benefits and Coverage Stipends
+Aura provides generous preventive well-being allocations under Program Benefit Code BEN-WELL-2026:
+- Mental Health Therapy Stipend: Up to $1,200 annually per employee for licensed individual therapy, counseling, or psychiatric consultations. Reimbursement claims are processed via the internal portal under Expense Code EXP-MTH-902.
+- Ergonomic and Wellness Equipment: Up to $400 one-time grant for ergonomic seating, standing desks, noise-cancelling headphones, or meditation app memberships (Expense Code EXP-ERGO-301).
+- Resilience Days: Employees are entitled to 4 designated mental resilience recharge days per calendar year in addition to standard PTO. No doctor's note is required.
+
+5. Critical Support Boundaries & Emergency Escalation
+The wellness chatbot and Aura peer support network are supportive tools and educational resources. They are NEVER a substitute for emergency psychiatric intervention or clinical diagnoses:
+- Emergency Crisis Directory:
+  * United States & Canada: Dial or text 988 (Suicide & Crisis Lifeline, available 24/7/365, free and confidential).
+  * United Kingdom: Call 111 (NHS mental health services) or 999 for imminent emergencies.
+  * European Union: Dial 112 (European emergency services).
+  * India: Dial 14416 (Tele-MANAS national tele-mental health programme) or 112.
+  * Global Support: Visit https://findahelpline.com to access verified crisis resources in over 130 countries.
+- Medical Disclaimer:
+  Chatbot assistants and peer guides cannot diagnose psychiatric or physical conditions, nor can they recommend starting, altering, or tapering prescription medications. Always consult a licensed medical physician or psychiatrist for medication management.
